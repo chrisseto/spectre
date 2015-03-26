@@ -1,0 +1,21 @@
+{
+  "name": "spectre",
+  "version": "0.1.0",
+  "description": "A small library and server for overcoming async related SEO problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phantom",
+    "seo",
+    "spectre"
+  ],
+  "author": "Chris Seto",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.7.1",
+    "express": "^4.12.3",
+    "phantom": "^0.7.2"
+  }
+}
