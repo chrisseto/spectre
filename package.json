@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/chrisseto/spectre.git"
+  },
+  "bin": {
+    "spectre": "./lib/server.js"
+  },
   "keywords": [
     "phantom",
     "seo",
